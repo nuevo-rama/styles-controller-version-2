@@ -1,0 +1,24 @@
+{
+  "name": "styles-controller-version-2",
+  "version": "1.0.0",
+  "description": "Enviar diferentes hojas de estilo desde el controlador",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuevo-rama/styles-controller-version-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuevo-rama/styles-controller-version-2/issues"
+  },
+  "homepage": "https://github.com/nuevo-rama/styles-controller-version-2#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
